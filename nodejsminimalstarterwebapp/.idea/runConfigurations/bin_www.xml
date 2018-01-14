@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="bin\www" type="NodeJSConfigurationType" factoryName="Node.js" path-to-js-file="bin/www" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="DEBUG" value="leoparddatanodejsservicesstorewebapp" />
+    </envs>
+    <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" start="true" with-js-debugger="true" url="http://localhost:2000/" />
+    </EXTENSION>
+    <RunnerSettings RunnerId="Basic" />
+    <RunnerSettings RunnerId="debuggableProgram" />
+    <ConfigurationWrapper RunnerId="Basic" />
+    <ConfigurationWrapper RunnerId="debuggableProgram" />
+    <method />
+  </configuration>
+</component>
